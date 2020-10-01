@@ -1,0 +1,6 @@
+P​latform = PS4 - Genre = Racing - NA_Sales = descending - processes = 5 -dir = sales
+quit
+
+
+
+
